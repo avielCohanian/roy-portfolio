@@ -1,0 +1,57 @@
+.home {
+  width: 100%;
+
+  & > * {
+    margin: 0 auto;
+    max-width: 75%;
+    margin-top: 30px;
+  }
+  img {
+    width: 242px;
+    margin: 0 auto;
+    display: flex;
+  }
+
+  p {
+    margin: 0;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  span {
+    color: red;
+  }
+  .description {
+    & > * {
+      text-align: center;
+    }
+    h1 {
+      line-height: 32px;
+    }
+
+    .txt {
+      margin: 0 auto;
+      max-width: 75%;
+    }
+  }
+
+  .second-description {
+    margin: 0 auto;
+    max-width: 75%;
+    margin-top: 30px;
+    & > * {
+      text-align: center;
+    }
+  }
+
+  .when {
+    margin: 0 auto;
+    max-width: 75%;
+    margin-top: 30px;
+    & > * {
+      text-align: center;
+    }
+    li {
+      line-height: 20px;
+    }
+  }
+}

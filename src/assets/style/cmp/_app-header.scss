@@ -1,0 +1,30 @@
+.app-header {
+  .call-header {
+    background-color: black;
+    min-height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    a {
+      color: yellowgreen;
+      line-height: 43px;
+      font-size: 21px;
+      color: #f5db00;
+      font-weight: 700;
+    }
+  }
+  .second-header {
+    border-top: 1px solid #78371b;
+    border-bottom: 1px solid #e1e1e1;
+    background-color: #281811;
+    min-height: 88px;
+  }
+  h1 {
+    color: #333;
+    font-size: 18px;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+  }
+}
