@@ -1,7 +1,7 @@
 <template>
   <section class="home">
     <img src="../assets/img/roy-img.jpg" alt="" />
-    <p>מנעולן בחולון</p>
+    <p class="text-center">מנעולן בחולון</p>
     <div class="description">
       <h1>
         <b> מנעולן בחולון מצטיין מורשה מ-₪99 פורץ מנעולים 24/7 מומלץ </b>

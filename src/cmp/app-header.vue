@@ -5,7 +5,7 @@
     </div>
     <section class="second-header"></section>
 
-    <h1>מנעולן בחולון</h1>
+    <h1 class="container">מנעולן בחולון</h1>
     <hr />
   </header>
 </template>

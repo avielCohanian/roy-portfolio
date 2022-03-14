@@ -3,13 +3,15 @@
     <app-header />
     <app-nav />
     <router-view class="app-container" />
+    <app-footer />
   </div>
 </template>
 <script>
   import appHeader from './cmp/app-header.vue';
   import appNav from './cmp/app-nav.vue';
+  import appFooter from './cmp/app-footer.vue';
   export default {
-    components: { appHeader, appNav },
+    components: { appHeader, appNav, appFooter },
     data() {
       return {};
     },
